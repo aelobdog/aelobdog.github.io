@@ -1,0 +1,53 @@
+.main {
+    width: 50%;
+    background-color: #ffffff;
+  }
+
+.heading {
+  font-size: 22px;
+  font-family: "Playfair Display", serif;
+  font-weight: 500;
+}
+
+  .sub-heading {
+    font-size: 16px;
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+  }
+
+  .link {
+    color: #333;
+    text-decoration: underline;
+  }
+
+  .link:after {
+    color: #333;
+    text-decoration: underline;
+  }
+
+  .thin {
+    width: 65%;
+    font-size: 16px;
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    text-align: justify;
+  }
+
+  .logo {
+    width: 20%;
+    padding-top: 24px;
+  }
+
+  .navlink {
+    font-family: monospace;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 0;
+    padding: 5px;
+    color: #eee;
+    background-color: #333;
+  }
+
+  hr {
+    width: 80%;
+  }
