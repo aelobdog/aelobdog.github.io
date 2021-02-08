@@ -1,53 +1,63 @@
+body {
+   margin: 0px;
+   filter: drop-shadow(0 0 0.75rem lightgrey);
+   line-height: 2em;
+}
+
 .main {
     width: 50%;
     background-color: #ffffff;
-  }
+}
 
 .heading {
-  font-size: 22px;
-  font-family: "Playfair Display", serif;
+  font-size: 24px;
+  font-family: "Unica One", cursive;
   font-weight: 500;
 }
 
-  .sub-heading {
-    font-size: 16px;
-    font-family: "Playfair Display", serif;
-    font-weight: 400;
-  }
+.sub-heading {
+  font-size: 20px;
+  font-family: "Unica One", cursive;
+  font-weight: 400;
+}
 
-  .link {
-    color: #333;
-    text-decoration: underline;
-  }
+.link {
+  text-decoration: none;
+}
 
-  .link:after {
-    color: #333;
-    text-decoration: underline;
-  }
+.thin {
+  width: 65%;
+  font-size: 20px;
+  font-family: "Unica One", cursive;
+  font-weight: 400;
+  text-align: justify;
+}
 
-  .thin {
-    width: 65%;
-    font-size: 16px;
-    font-family: "Playfair Display", serif;
-    font-weight: 400;
-    text-align: justify;
-  }
+.hl {
+   background-color: #777;
+   color: #eee;
+   padding: 5px;
+   border-radius: 3px;
+}
 
-  .logo {
-    width: 20%;
-    padding-top: 24px;
-  }
+.logo {
+  width: 20%;
+  padding-top: 24px;
+}
 
-  .navlink {
-    font-family: monospace;
-    text-decoration: none;
-    font-size: 16px;
-    margin: 0;
-    padding: 5px;
-    color: #eee;
-    background-color: #333;
-  }
+.navlink {
+  font-family: monospace;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 0;
+  padding: 5px;
+  color: #eee;
+  background-color: #333;
+}
 
-  hr {
-    width: 80%;
-  }
+hr {
+  width: 80%;
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
