@@ -1,7 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Roboto+Slab:wght@300&display=swap');
+
 body {
    margin: 0px;
    filter: drop-shadow(0 0 0.75rem lightgrey);
    line-height: 2em;
+}
+
+a {
+   text-decoration: none;
+   color: #da7678;
 }
 
 .main {
@@ -11,13 +18,13 @@ body {
 
 .heading {
   font-size: 24px;
-  font-family: "Unica One", cursive;
+  font-family: "Alata", sans-serif;
   font-weight: 500;
 }
 
 .sub-heading {
   font-size: 20px;
-  font-family: "Unica One", cursive;
+  font-family: 'Roboto Slab', serif;
   font-weight: 400;
 }
 
@@ -28,14 +35,13 @@ body {
 .thin {
   width: 65%;
   font-size: 20px;
-  font-family: "Unica One", cursive;
+  font-family: 'Roboto Slab', serif;
   font-weight: 400;
   text-align: justify;
 }
 
 .hl {
-   background-color: #777;
-   color: #eee;
+   color: #444;
    padding: 5px;
    border-radius: 3px;
 }
@@ -60,4 +66,21 @@ hr {
   border: 0;
   height: 1px;
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+@media only screen and (max-width: 768px) {
+   .main{
+	   width: 100%;
+   }
+   .logo {
+      width: 60%;
+   }
+   .sub-heading {
+      width: 85%;
+      font-size: 16px;
+   }
+   .thin {
+      width: 80%;
+      font-size: 16px;
+   }
 }
