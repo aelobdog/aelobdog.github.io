@@ -16,7 +16,7 @@ that I've made.
 ** 🢖 [[https://github.com/aelobdog/lih2][Lih2]]
 Lih2 is a super simple blog maintenance
 tool that I use for my personal blog.
-It used sitefl as the markup language
+It uses sitefl as the markup language
 for blog posts.
 ** 🢖 [[https://github.com/aelobdog/cuppu86][Cuppu86]]
 Cuppu86 is an emulator backend for the
