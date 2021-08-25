@@ -18,6 +18,7 @@ Lih2 is a super simple blog maintenance
 tool that I use for my personal blog.
 It uses sitefl as the markup language
 for blog posts.
+
 ** 🢖 [[https://github.com/aelobdog/cuppu86][Cuppu86]]
 Cuppu86 is an emulator backend for the
 Intel 8086. It is a bunch of code that
@@ -27,6 +28,7 @@ can be designed to use this project as a
 backend for their emulators. All interrupt
 related instructions (there are four) have
 been left unimplemented.
+
 ** 🢖 [[https://github.com/aelobdog/bru][Bru]]
 Bru is an HDL based electronics simulator
 that works at the gate level. It works by
@@ -34,6 +36,7 @@ converting the HDL and simulation scripts
 into a single Go(lang) file which, when
 executed displays the results of the
 simulation.
+
 ** 🢖 [[https://github.com/aelobdog/colon-lang][Colon]]
 Colon is a dynamic, interpretted programming
 language with a handmade lexer and parser
@@ -42,6 +45,7 @@ language was inspired by an older project of
 mine : [[https://github.com/aelobdog/axolotl][axolotl]]. The rest of the language was
 designed with [[https://thorstenball.com/][Thorsten Ball]]'s excellent book
 [[https://interpreterbook.com/][Write an interpretter in Go]].
+
 ** 🢖 [[https://github.com/aelobdog/sitefl][SiTeFL]]
 SiTeFL, the Simple Text Formatting Language,
 is exactly what it stands for. It is a markdown
@@ -51,6 +55,7 @@ template html and a sample stylesheet which are
 fully customizable.
 
 There is a web version of this program [[https://aelobdog.github.com/siteflon][here]].
+
 ** 🢖 [[https://github.com/aelobdog/dynar][DynAr]]
 Dynar is a "preprocessor" for programs written
 in the C programming language. It allows the
