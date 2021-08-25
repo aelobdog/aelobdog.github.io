@@ -56,6 +56,12 @@ Dynar is a "preprocessor" for programs written
 in the C programming language. It allows the
 programmer to use dynamic, resizable arrays as
 if they were a built-in feature in the language
-itself. It also provides functionality to =push=,
-=pop=, =insert= and =delete= elements from the
+itself. It also provides functionality to push,
+pop, insert and delete elements from the
 resizable arrays created.
+
+** 🢖 [[https://github.com/aelobdog/olich][olich]]
+Olich is a text editor built with the kilo text
+editor's tutorial as a base. It is not complete
+in any sense, but I had fun learning how to
+implement a simple text editor.
