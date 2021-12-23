@@ -1,0 +1,59 @@
+<CENTER>
+###AELOBDOG'S PERSONAL WEBSITE
+##### @[Twitter](https://twitter.com/aelobdog)  |  @[Github](https://github.com/aelobdog)
+#<\/CENTER>
+
+### Welcome \!
+Hello. 
+Welcome to my personal website.
+This page is mainly a list of my projects.
+I also write random stuff on my blog from time to time, so be sure to check that out if you're interested. You can find the blog @[here](https://aelobdog.github.io/aelobdog-writes).
+
+### Projects
+I write code from time to time, mostly to learn new stuff. Here's a list of some projects of mine.
+
+#### 🢖 @[Lih2](https://aelobdog.github.io/lih2)
+
+Lih2 is a super simple single script blog generation and maintenance tool that I use for my personal blog. It uses sitefl as its markup language.
+
+#### 🢖 @[Sitefl](https://aelobdog.github.io/sitefl)
+
+Sitefl stands for simple text formatting language. It is a minimal markdown like text formatting language that I write all my webpages in. The tool spits out the html which I can customize using my own css. There is a web version of the tool @[here](https://aelobdog.github.io/siteflon), but it is not maintained and has been hackily put together using an old version of gopherjs, so ... yeah.
+
+#### 🢖 @[Cuppu86](https://aelobdog.github.io/cuppu86)
+
+Cuppu86 is an 8086 emulator written in C. It supports 98% of the ISA (the 2% includes the 4 interrupt related instructions). Frontends can be written separately for Cuppu86 fairly easily, there's one that my friend implemented whose screencast is available on the project site.
+
+#### 🢖 @[Crisp](https://aelobdog.github.io/crisp)
+
+Crisp is a chip8 interpreter that I developed from scratch using C and SDL2. After having written a /gigantic/ 8086 emulator (cuppu86) that did not support drawing pixels to the screen, I wanted to write something that did. Turns out, the chip8 is a small but super interesting system\! I had a lot of fun while making this project, even though graphics programming was a little bit of a headache sometimes :P
+
+#### 🢖 @[Bru](https://aelobdog.github.io/bru)
+
+Bru is an HDL to go transpiler that aids in creating simple combinational and sequential circuits and simulating them. It can do some pretty cool stuff even with its limitations. Check out the series of videos I uploaded on how to use it on @[youtube](https://www.youtube.com/watch?v=pwbpNgjkWDA&list=PL7TWTwlde5Vm8ahAJga-ze4AIi38XCAkX).
+
+#### 🢖 @[Colon](https://aelobdog.github.io/colon-lang)
+
+Colon is a toy language that I designed for fun. I designed it as I read @[Thorsten Ball's](https://thorstenball.com/) amazing book on writing @[interpreters in go](https://interpreterbook.com/). While it was built alongside the book, it has a different syntax because I was of the opinion that I'd learn more that way. It is only a /toy/ language, and almost zero thought went into most of the design decisions, so don't try to use it for anything other than experimentation\!
+
+#### 🢖 @[Olich](https://aelobdog.github.io/olich)
+
+I've always wanted to write a small text editor and when I came across the 'kilo' tutorial on how to write a text editor, I just couldn't resist. This is a product of that lack of resistance xD. It is almost exactly built the same way as kilo, with some minor differences here and there.
+
+#### 🢖 @[Dynar](https://aelobdog.github.io/dynar)
+
+The lack of support for resizable dynamic arrays in C was almost frustrating back when I was just learning manual memory management. So I wrote a 'preprocessor' that allowed me to use such arrays without having to manually do any of the memory management magic. The project is not actively maintained and I haven't really had use for it for a while, but if it interests you, check it out\!
+
+#### 🢖 @[Network Programming](https://aelobdog.github.io/netprog-assignments)
+
+This is a repository of all the programs my @[friend](https://github.com/samarthkm) and I wrote for our university course on network programming. It was my first time using linux system calls, and while it was hard at times, the end results were satisfying.
+
+#### 🢖 @[Cgsimrd](https://aelobdog.github.io/cgsimrd)
+
+This is the product of a semester long study project I did on DNA\/RNA simulations using LAMMPS. Working with LAMMPS can be quite the task, especially when the documentation is almost doesn't exist for certain things. While I could not get the desired results from the simulations, I did manage to get a minimal system up and running that makes using LAMMPS for these kinds of simulations less about scouring the internet looking for the right values to put in an input script and more about the simulations themselves. If anyone needs some help regarding this package, drop me an email and I'll try to help out to the best of my ability.
+
+
+
+
+<CENTER>##### For any queries, email me at <\/CENTER>
+<CENTER>#####dev [dot] godboleashwin [at] gmail [dot] com<\/CENTER>
