@@ -12,6 +12,10 @@ I also write random stuff on my blog from time to time, so be sure to check that
 ### Projects
 I write code from time to time, mostly to learn new stuff. Here's a list of some projects of mine.
 
+#### 🢖 @[Bmp-vyu](https://aelobdog.github.io/bmp-vyu)
+
+Bmp-vyu is a simple .bmp image viewer written in C using raylib for rendering the images. It supports uncompressed bitmap images with 32/24/16 byte colors per pixel. It is a work in progress. The two main resources followed while developing the tool are @[here](https://cdn.hackaday.io/files/274271173436768/Simplified%20Windows%20BMP%20Bitmap%20File%20Format%20Specification.htm#The%20Color%20Table) and @[here](https://en.wikipedia.org/wiki/BMP_file_format)\.
+
 #### 🢖 @[Lih2](https://aelobdog.github.io/lih2)
 
 Lih2 is a super simple single script blog generation and maintenance tool that I use for my personal blog. It uses sitefl as its markup language.
