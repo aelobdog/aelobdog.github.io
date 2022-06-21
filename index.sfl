@@ -6,6 +6,9 @@ Welcome to my personal website.
 I write random stuff on my blog from time to time, so be sure to check that out if you're interested. You can find the blog @[here](https://aelobdog.github.io/aelobdog-writes).
 
 ### Projects
+#### @[Coloff](https://aelobdog.github.io/coloff)
+Coloff is a dynamically typed, compiled programming language, designed to learn compiler development. It shares some of its codebase with @[colon](https://aelobdog.github.io/colon-lang), but follows a more traditional C-like syntax.
+
 #### @[Bmp-vyu](https://aelobdog.github.io/bmp-vyu)
 Bmp-vyu is a simple .bmp image viewer written in C using raylib for rendering the images. It supports uncompressed bitmap images with 32\/24\/16 byte colors per pixel. The two main resources followed while developing the tool are @[here](https://cdn.hackaday.io/files/274271173436768/Simplified%20Windows%20BMP%20Bitmap%20File%20Format%20Specification.htm#The%20Color%20Table) and @[here](https://en.wikipedia.org/wiki/BMP_file_format)\.
 
