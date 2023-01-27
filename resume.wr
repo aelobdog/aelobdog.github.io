@@ -1,0 +1,100 @@
+#1 Resume
+
+@[Email](mailto:dev.godboleashwin@gmail.com) @[LinkedIn](https://www.linkedin.com/in/ashwin-godbole-a0426a172/)
+
+---
+
+#2 Education
+
+#4 Masters of Science (M.Sc.) Physics
+#4 2018 - 2023
+Birla Institute of Technology and Science, Pilani
+
+#4 Bachelors of Engineering (B.E.) Computer Science
+#4 2018 - 2023
+Birla Institute of Technology and Science, Pilani
+
+---
+
+#2 Experience
+
+#4 Summer Intern - UST Global
+#5 May '20 - June '20
+
++ Explored the viability of private blockchain based technology and its possible applications in the improvement of supply chain management systems.
++ Designed and implemented a sample Distributed Application (DApp) on a private blockchain on the Corda platform.
++ Tools used mainly include Java and Kotlin
+
+
+#4 Software Intern - Advanced Micro Devices (AMD)
+#5 July '22 - Dec '22
+
++ Worked on the improvement of algorithmic performance of AMD's AOCL (Optimized CPU Libraries) Compression project
++ Worked primarily with C\/C++ and assembly code
++ Gained valuable experience in the fields of code level optimization, CPU architecture, SIMD and compiler(gcc\/clang) internals
+
+---
+
+#2 Activities
+
+#3 Karate
++ I've undergone training and practiced karate for about 10 - 11 years.
++ In the process, I've earned two black belts (Black Belt Dan 2).
++ I've also taught karate for about 4 to 5 years during this time.
+
+#3 Volleyball
++ I've been playing volleyball since 4th grade or so.
++ Currently, I play for my University Team, as the team's libero.
+
+---
+
+#2 Scholarships
+
+#4 Innovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship
+A scholarship from the Government of India for meritorious students in the fields of natural and basic sciences.
+
+---
+
+#2 Skills
+
++ Programming languages: C, Golang
++ Shell Scripting (bash)
++ Unix \/ GNU+Linux
++ Git
++ Emacs, Vim
+
+---
+
+#2 Projects
+
+#3 @[Wrang](https://aelobdog.github.io/wrang)
++ A text to html program
++ Used to build all my personal webpages
++ Hand-rolled lexer, recursive design parser and html(code) generator
++ Written in pure C with no external dependencies
+
+#3 @[Cuppu86](https://aelobdog.github.io/cuppu86)
++ An 8086 emulator backend
++ Supports 98% of the ISA (the emulator does not implement interrupts)
++ Around 4K lines of pure C code, with no external dependencies
+
+#3 @[Cgsimrd](https://github.com/aelobdog/cgsimrd)
++ Created as a product of a semester long study project I did on DNA\/RNA simulations using LAMMPS.
++ Helps in getting a minimal system up and running that makes use of LAMMPS for DNA\/RNA simulations
++ Reduced time and effort invested into setting up LAMMPS to work with these kinds of simulations
+
+#3 @[Bru](https://aelobdog.github.io/bru)
++ A Hardware Description Language (HDL) based tool to simulate simple circuits
++ Supports most combinational and sequential circuits (there are limitations)
++ Transpiles HDL to Go (golang)
++ Written in Go
++ Youtube series on how to use Bru @[here](https://youtube.com/playlist?list=PL7TWTwlde5Vm8ahAJga-ze4AIi38XCAkX)
+
+#3 @[Experiments in Network Programming](https://github.com/aelobdog/netprog-assignments)
++ Programs written as part of a University course on Network Programming
++ Bash-like shell with support for double and tripple pipes (`eg: ls || wc, grep "home"`)
++ Cluster shell with one server and multiple clients that allows clients to run commands on other clients and get back the desired output
++ Simple chat application in the terminal between clients connected to a server (clients can join, leave when desired)
+
+---
+
