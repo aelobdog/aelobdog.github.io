@@ -18,6 +18,25 @@ Birla Institute of Technology and Science, Pilani
 
 #2 Experience
 
+#4 Software Systems Designer 2 - Advanced Micro Devices (AMD)
+#5 December '24 - Present
+
++ Working as part of AMD's AOCL (Optimized CPU Libraries) project.
+
+#4 Software Systems Designer 1 - Advanced Micro Devices (AMD)
+#5 July '23 - December '24
+
++ Worked on Snappy, ZSTD compression (as part of the @[AOCL Compression](https://github.com/amd/aocl-compression))
++ Developed the multi-threaded Snappy compressor\/decompressor
++ Optimized the single-threaded snappy decompressor
+
+#4 Software Intern - Advanced Micro Devices (AMD)
+#5 July '22 - December '22
+
++ Worked on the improvement of algorithmic performance of AMD's AOCL (Optimized CPU Libraries) Compression project
++ Worked primarily with C\/C++ and assembly code
++ Gained valuable experience in the fields of code level optimization, CPU architecture, SIMD and compiler(gcc\/clang) internals
+
 #4 Summer Intern - UST Global
 #5 May '20 - June '20
 
@@ -25,25 +44,14 @@ Birla Institute of Technology and Science, Pilani
 + Designed and implemented a sample Distributed Application (DApp) on a private blockchain on the Corda platform.
 + Tools used mainly include Java and Kotlin
 
-
-#4 Software Intern - Advanced Micro Devices (AMD)
-#5 July '22 - Dec '22
-
-+ Worked on the improvement of algorithmic performance of AMD's AOCL (Optimized CPU Libraries) Compression project
-+ Worked primarily with C\/C++ and assembly code
-+ Gained valuable experience in the fields of code level optimization, CPU architecture, SIMD and compiler(gcc\/clang) internals
-
-#4 Software Systems Designer 1 - Advanced Micro Devices (AMD)
-#5 July '23 - Present
-
-+ Working as part of AMD's AOCL (Optimized CPU Libraries) project.
-
 ---
 
 #2 Publications
 
 #4 The role of oxygen defects in the electronic, optical and phonon dispersion of the LAGO perovskite:
 #4 a density functional theory investigation
+
+@[LINK](https://pubs.rsc.org/en/content/articlelanding/2023/dt/d3dt02846a)
 
 The study aims to investigate the electronic, optical and phonon dispersion properties of a pure and 2.5% O-defect induced LAGO perovskite, using density functional theory (DFT) with generalized gradient approximation (GGA) and the PBE functional. The research reveals a significant reduction in the band gap from 3.27 eV in pure LAGO to 2.18 eV in defect-induced LAGO. The defect-induced LAGO exhibits relatively strong light absorption in the visible region compared to pure LAGO. The phonon-dispersion analysis identifies one acoustic and two transverse optical mode branches. The calculated Debye temperatures for pure and defect-induced systems are 469.92 K and 463.69 K, respectively, attributed to weaker bonds in defect-induced LAGO. The findings offer fundamental insights into the impact of oxygen vacancies on the electronic, optical, and phonon properties of the LAGO perovskite that can potentially improve the electronic and optoelectronic devices operating across a wide range of spectral frequencies.
 
@@ -58,10 +66,11 @@ A scholarship from the Government of India for meritorious students in the field
 
 #2 Skills
 
-+ Programming languages: C
-+ Shell Scripting
-+ Unix \/ GNU+Linux
-+ Emacs, Vim
++ C
++ SIMD
++ x86\_64\/amd64 platform
++ LZ77 compression
++ Performance optimization
 
 ---
 
