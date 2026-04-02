@@ -22,6 +22,7 @@ Birla Institute of Technology and Science, Pilani
 #5 December '24 - Present
 
 + Working as part of AMD's AOCL (Optimized CPU Libraries) project.
++ Working on AOCL's Fast Fourier Transforms library, @[AOCL-FFTZ](https://github.com/amd/aocl-fftz)
 + Maintainer of AMD's AOCL Julia packages, @[AOCL-Julia](https://github.com/amd/AOCL_jll.jl)
 
 #4 Software Systems Designer 1 - Advanced Micro Devices (AMD)
@@ -56,6 +57,13 @@ Birla Institute of Technology and Science, Pilani
 
 The study aims to investigate the electronic, optical and phonon dispersion properties of a pure and 2.5% O-defect induced LAGO perovskite, using density functional theory (DFT) with generalized gradient approximation (GGA) and the PBE functional. The research reveals a significant reduction in the band gap from 3.27 eV in pure LAGO to 2.18 eV in defect-induced LAGO. The defect-induced LAGO exhibits relatively strong light absorption in the visible region compared to pure LAGO. The phonon-dispersion analysis identifies one acoustic and two transverse optical mode branches. The calculated Debye temperatures for pure and defect-induced systems are 469.92 K and 463.69 K, respectively, attributed to weaker bonds in defect-induced LAGO. The findings offer fundamental insights into the impact of oxygen vacancies on the electronic, optical, and phonon properties of the LAGO perovskite that can potentially improve the electronic and optoelectronic devices operating across a wide range of spectral frequencies.
 
+#4 Strain-Tunable Mechanical, Electronic and Optical Properties of La₂AlGaO₆ Hybrid Perovskite:
+#4 A First-Principles Investigation
+
+@[LINK](https://pubs.rsc.org/en/content/articlelanding/2026/ma/d6ma00060f)
+
+Perovskite materials, well-known for their structural flexibility and multifunctional characteristics, continue to attract attention for advanced electronic and optoelectronic applications. In this work, the elastic and strain-engineered electronic, mechanical, and optical properties of orthorhombic La₂AlGaO₆ (LAGO)-a hybrid perovskite formed by combining LaAlO₃ and LaGaO₃-are systematically investigated using first-principles density functional theory (DFT) calculations. Structural optimizations were performed using both the local density approximation (LDA) and the generalized gradient approximation (GGA). Mechanical stability was verified through the Born-Huang criteria, and the computed elastic constants (C₁₁, C₁₂, C₃₃, C₄₄, and C₆₆) were employed to derive key mechanical parameters, including Young's modulus, bulk modulus, shear modulus, Poisson's ratio, Cauchy's pressure, and anisotropy factor, providing insights into the material's ductility, hardness, and elastic anisotropy. Furthermore, the influence of biaxial strain on the electronic band structure, total and partial density of states (DOS\/PDOS), and Fermi energy was analyzed, revealing pronounced band gap modulation under both compressive and tensile strains, accompanied by significant changes in optical behavior. The strong coupling between elastic response and electronic structure underscores LAGO's potential for tunable device applications, where mechanical stimuli can effectively tailor its electronic and optical functionalities.
+
 ---
 
 #2 Scholarships
@@ -70,8 +78,9 @@ A scholarship from the Government of India for meritorious students in the field
 + C
 + SIMD
 + x86\_64\/amd64 platform
-+ LZ77 compression
-+ Performance optimization
++ Fourier Transforms
++ LZ77 Compression
++ Performance Optimization
 
 ---
 
