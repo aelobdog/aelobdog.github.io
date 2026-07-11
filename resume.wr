@@ -66,21 +66,12 @@ Perovskite materials, well-known for their structural flexibility and multifunct
 
 ---
 
-#2 Scholarships
+#2 Open Source
 
-#4 Innovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship
-A scholarship from the Government of India for meritorious students in the fields of natural and basic sciences.
-
----
-
-#2 Skills
-
-+ C
-+ SIMD
-+ x86\_64\/amd64 platform
-+ Fourier Transforms
-+ LZ77 Compression
-+ Performance Optimization
+#3 GCC (GNU Compiler Collection)
++ Contributed to upstream GCC master branch as co-author on a patch fixing VMOVDDUP instruction patterns i386 target
++ Bug report: @[GCC PR 125876](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=125876)
++ Commit: @[link](https://github.com/gcc-mirror/gcc/commit/dbc6b5266eb17638ca1d5b22ab35364e0b2e0d48)
 
 ---
 
@@ -114,6 +105,24 @@ A scholarship from the Government of India for meritorious students in the field
 + Bash-like shell with support for double and tripple pipes (`eg: ls || wc, grep "home"`)
 + Cluster shell with one server and multiple clients that allows clients to run commands on other clients and get back the desired output
 + Simple chat application in the terminal between clients connected to a server (clients can join, leave when desired)
+
+---
+
+#2 Scholarships
+
+#4 Innovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship
+A scholarship from the Government of India for meritorious students in the fields of natural and basic sciences.
+
+---
+
+#2 Skills
+
++ C
++ SIMD
++ x86\_64\/amd64 platform
++ Fourier Transforms
++ LZ77 Compression
++ Performance Optimization
 
 ---
 
